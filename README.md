@@ -1,1 +1,2 @@
-# git_test
+Hello Odin!
+I AM LEARNING FULL STACK DEVELOPMENT!!!!
